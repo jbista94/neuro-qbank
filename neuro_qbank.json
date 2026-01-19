@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "topic": "Neuroanatomy",
+        "stem": "What is the most proximal branch of the external carotid artery?",
+        "choices": {
+            "A": "Lingual artery",
+            "B": "Facial artery",
+            "C": "Superior thyroid artery",
+            "D": "Ascending pharyngeal artery"
+        },
+        "answer": "C",
+        "explanation": "The mnemonic SALFOPSI can be used to remember the various branches of the ECA, from proximal to distal: Superior thyroid artery, Ascending pharyngeal artery, Lingual artery, Facial artery, Occipital artery, Posterior auricular artery, Superficial temporal artery, (Internal) Maxillary artery"
+    },
+
+    {
+        "id": 2,
+        "topic": "Neuroanatomy",
+        "stem": "What is the most distal branch of the external carotid artery?",
+        "choices": {
+            "A": "Occipital artery",
+            "B": "Maxillary artery",
+            "C": "Superficial temporal artery",
+            "D": "Posterior auricular artery"
+        },
+        "answer": "B",
+        "explanation": "The mnemonic SALFOPSI can be used to remember the various branches of the ECA, from proximal to distal: Superior thyroid artery, Ascending pharyngeal artery, Lingual artery, Facial artery, Occipital artery, Posterior auricular artery, Superficial temporal artery, (Internal) Maxillary artery"
+    },
+
+    {
+        "id": 3,
+        "topic": "Neuroanatomy",
+        "stem": "The carotid siphon is primarily comprised of which segments of the ICA?",
+        "choices": {
+            "A": "Lacerum",
+            "B": "Cavernous",
+            "C": "Communicating",
+            "D": "Clinoid",
+            "E": "Both A and B",
+            "F": "Both B and C",
+            "G": "Both B and D",
+            "H": "None of the above"
+        },
+        "answer": "G",
+        "explanation": "The carotid siphon is the S-shaped curve of the ICA and is primarily comprised of the cavernous (C4) and clinoid (C5) portions of the ICA."
+    },
+
+    {
+        "id": 4,
+        "topic": "Neuroanatomy",
+        "stem": "A patient presents with hemiparesis, hemianopsia, and hemianesthesia. Where is the most likely lesion?",
+        "choices": {
+            "A": "A branch of the internal carotid artery",
+            "B": "A branch of the external carotid artery",
+            "C": "A branch of the middle cerebral artery",
+            "D": "A branch of the posterior cerebral artery"
+        },
+        "answer": "A",
+        "explanation": "The classic triad of hemiparesis, hemianesthesia, and hemianopsia is seen in patients with anterior choroidal artery occlusion. The AChA supplies the posterior limb of the internal capsule, which carries motor fibers from the corticospinal tract (hemiparesis), as well as thalamocortical sensory fibers that run between the VPL thalamus and somatosensory cortex (hemianesthesia). Lastly, the AChA supplies the optic tracts and lateral geniculate nucleus (hemianopsia)."
+    },
+
+    {
+        "id": 5,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following are terminal branches of the PCA?",
+        "choices": {
+            "A": "Posterior Communicating Artery and Calcarine Artery",
+            "B": "Basilar Artery and Posterior Choroidal Artery",
+            "C": "Parieto-occipital Artery and Posterior Choroidal Artery",
+            "D": "Parieto-occipital Artery and Calcarine Artery",
+            "E": "Calcarine Artery and Basilar Artery"
+        },
+        "answer": "D",
+        "explanation": "The calcarine artery supplies the primary visual cortex (V1), while the parieto-occipital artery supplies the medial and lateral occipital association cortex. The occipital association cortex (aka the extrastriate visual cortex) is home to the visual processing areas surrounding the primary visual cortex. Rather than detecting visual information, its interprets and gives meaning to visual information, receiving input from V1 and distributing visual information to higher-order visual networks such as the LGN. The medial association cortex is involved in higher-order processing such as visuospatial integration and memory integration. Lesions can cause visuospatial deficits (e.g., alexia). The lateral association cortex is involved in the 'what' pathway: object recognition, face recognition, processing of color and form. Lesions can cause visual agnosia and prosopagnosia."
+    },
+
+    {
+        "id": 6,
+        "topic": "Neuroanatomy",
+        "stem": "The superior anastomotic vein is also known as:",
+        "choices": {
+            "A": "Vein of Labbé",
+            "B": "Vein of Trolard",
+            "C": "Vein of Galen",
+            "D": "Superficial middle cerebral vein"
+        },
+        "answer": "B",
+        "explanation": "The vein of Trolard (superior anastomotic vein) is a large anastomotic vein that drains venous blood from the superficial middle cerebral vein into the superior sagittal sinus."
+    },
+
+    {
+        "id": 7,
+        "topic": "Neuroanatomy",
+        "stem": "The inferior anastomotic vein is also known as:",
+        "choices": {
+            "A": "Vein of Labbé",
+            "B": "Vein of Trolard",
+            "C": "Vein of Galen",
+            "D": "Superficial middle cerebral vein"
+        },
+        "answer": "A",
+        "explanation": "The vein of Labbé (inferior anastomotic vein) is a large anastomotic vein that drains venous blood from the superficial middle cerebral vein into the transverse sinus."
+    },
+
+    {
+        "id": 8,
+        "topic": "Neuroanatomy",
+        "stem": "The meningohypophyseal trunk is the largest branch of which ICA segment?",
+        "choices": {
+            "A": "C2",
+            "B": "C3",
+            "C": "C4",
+            "D": "C5",
+            "E": "C6"
+        },
+        "answer": "C",
+        "explanation": "The cavernous portion of the ICA branches off into the meningohypophyseal and inferolateral trunks. The meningohypophyseal trunk gives rise to the inferior hypophyseal artery, marginal tentorial artery, and clival branches, serving as a primary source of blood supply to tentorial, petroclival, and cavernous meningiomas."
+    },
+
+    {
+        "id": 9,
+        "topic": "Neuroanatomy",
+        "stem": "What is the most constant branch of the meningohypophyseal trunk?",
+        "choices": {
+            "A": "Dorsal meningeal artery",
+            "B": "Superior hypophyseal artery",
+            "C": "Inferior hypophyseal artery",
+            "D": "Tentorial artery"
+        },
+        "answer": "D",
+        "explanation": "The tentorial artery is most likely to be present across different patients, with little anatomic variation compared to other branches. It initially passes forward to the roof of the cavernous sinus and then posterolaterally along the free edge of the tentorium. While not the primary blood supply, it does give some regional blood supply to CNs III and IV." 
+    },
+
+    {
+        "id": 10,
+        "topic": "Neuroanatomy",
+        "stem": "The inferolateral trunk can be found between which two cranial nerves?",
+        "choices": {
+            "A": "Ophthalmic and maxillary branches of the trigeminal nerve",
+            "B": "Ophthalmic branch of trigeminal nerve, Abducens nerve",
+            "C": "Trochlear nerve, Ophthalmic branch of trigeminal nerve",
+            "D": "Abducens nerve, Trochlear nerve",
+            "E": "None of the above"
+        },
+        "answer": "B",
+        "explanation": "Like the meningohypophyseal trunk, the inferolateral trunk branches off the intracavernous portion of the ICA and can be found between CNs VI and V1. It provides the primary blood supply to the CNs of the cavernous sinus (III, IV, V1, V2, and VI)."
+    },
+
+    {
+        "id": 11,
+        "topic": "Neuroanatomy",
+        "stem": "When looking at a lateral cerebral angiogram, the venous angle is used to approximate the location of:",
+        "choices": {
+            "A": "Foramen of Magendie",
+            "B": "Foramen of Monro",
+            "C": "Aqueduct of Sylvius",
+            "D": "Foramina of Luschka"
+        },
+        "answer": "B",
+        "explanation": "The venous angle is formed by the junction of the thalamostriate vein and the internal cerebral veins at the thalamic tubercle. This location roughly marks the foramen of Monro."
+    },
+
+    {
+        "id": 12,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following cerebral veins is not superficial?",
+        "choices": {
+            "A": "Vein of Labbé",
+            "B": "Vein of Trolard",
+            "C": "Vein of Galen",
+            "D": "Sylvian vein"
+        },
+        "answer": "C",
+        "explanation": "The vein of Galen is a deep cerebral vein that carries venous blood from the internal cerebral vein to the straight sinus."
+    },
+
+    {
+        "id": 13,
+        "topic": "Neuroanatomy",
+        "stem": "A patient presents with a large, unruptured aneurysm in the cavernous portion of the right ICA. Which of the following symptoms is most likely?",
+        "choices": {
+            "A": "Inability to adduct the right eye",
+            "B": "Inability to abduct the right eye",
+            "C": "Inability to adduct the left eye",
+            "D": "Inability to abduct the left eye"
+        },
+        "answer": "B",
+        "explanation": "Patients with large, unruptured ICA aneurysms in the cavernous sinus are most likely to present with ipsilateral CN VI palsy. Unlike the other CNs, which are found along the lateral wall of the cavernous sinus, the abducens nerve runs freely along the cavernous sinus and is directly adjacent to the ICA. Arterial pulsations from large, cavernous aneurysms can externally compress CN VI, causing ipsilateral weakness in abduction."
+    },
+
+    {
+        "id": 14,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following structures is supplied by the posterior communicating artery and posterior cerebral artery?",
+        "choices": {
+            "A": "Thalamus",
+            "B": "Internal capsule",
+            "C": "Optic chiasm",
+            "D": "Hippocampus"
+        },
+        "answer": "A",
+        "explanation": "The thalamus receives arterial supply from perforators arising from both the posterior communicating and posterior cerebral arteries. The internal capsule receives blood supply from the anterior choroidal artery (direct branch of ICA) and lenticulostriate branches of the MCA. The optic chiasm mainly receives its supply from the ophthalmic artery. The hippocampus receives blood supply from the PCA (via hippocampal branches), but not PComm."
+    },
+
+    {
+        "id": 15,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following symptoms is least likely in Wallenburg syndrome?",
+        "choices": {
+            "A": "Ipsilateral loss of pain and temperature (face)",
+            "B": "Contralateral loss of pain and temperature (body)",
+            "C": "Hoarseness",
+            "D": "Contralateral hemiparesis"
+        },
+        "answer": "D",
+        "explanation": "Lateral medullary syndrome (aka Wallenberg syndrome) most commonly occurs due to occlusion of the posterior inferior cerebellar artery, which supplies the lateral medulla. PICA infarcts can cause damage to the spinothalamic tract (contralateral loss of pain and temperature in the body), spinal trigeminal tract (ipsilateral loss of pain and temperature on the face), and nucleus ambiguus (hoarseness, dysphagia). The corticospinal tracts, which run more medially, are unlikely to be affected."
+    },
+
+    {
+        "id": 16,
+        "topic": "Neuroanatomy",
+        "stem": "Due to having dual blood supply, infarcts to the lateral geniculate nucleus are relatively uncommon.",
+        "choices": {
+            "A": "True",
+            "B": "False"
+        },
+        "answer": "A",
+        "explanation": "The LGN receives dual arterial blood supply from the anterior choroidal artery and lateral posterior choroidal artery and is more resistant to ischemic injury in the setting of stroke."
+    },
+
+    {
+        "id": 17,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following vessels is most implicated in trigeminal neuralgia?",
+        "choices": {
+            "A": "Basilar artery",
+            "B": "Anterior inferior cerebellar artery",
+            "C": "Superior cerebellar artery",
+            "D": "Posterior inferior cerebellar artery"
+        },
+        "answer": "C",
+        "explanation": "Trigeminal neuralgia most commonly occurs due to vascular compression of the trigeminal nerve at the root entry zone (REZ). The most common offending vessel is the superior cerebellar artery, followed by AICA."
+    },
+
+    {
+        "id": 18,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following vessels is most implicated in hemifacial spasm?",
+        "choices": {
+            "A": "Basilar artery",
+            "B": "Anterior inferior cerebellar artery",
+            "C": "Superior cerebellar artery",
+            "D": "Posterior inferior cerebellar artery"
+        },
+        "answer": "B",
+        "explanation": "Hemifacial spasms (HFS) are involuntary muscle contractions in the muscles supplied by the facial nerve (CN VII), starting at the orbicularis oculi and progressing to the cheek, platysma, and perioral muscles. Importantly, they persist during sleep and are worsened by talking, chewing, and smiling. Like trigeminal neuralgia, HFS is caused by compression of the facial nerve at the root exit zone, commonly at the pontomedullary junction. Usual offenders includers include AICA, PICA, and (less commonly) the vertebral artery. Treatments range from Botox injections to microvascular decompression (MVD)."
+    },
+
+    {
+        "id": 19,
+        "topic": "Neuroanatomy",
+        "stem": "Which of the following vessels is most implicated in glossopharyngeal neuralgia?",
+        "choices": {
+            "A": "Basilar artery",
+            "B": "Anterior inferior cerebellar artery",
+            "C": "Superior cerebellar artery",
+            "D": "Posterior inferior cerebellar artery"
+        },
+        "answer": "D",
+        "explanation": "Glossopharyngeal neuralgia is characterized by severe, paroxysmal, unilateral stabbing pain in the sensory distribution of CN IX (posterior tongue, tonsillar fossa, oropharynx, angle of jaw, and ear via Jacobson nerve). 'Attacks' (triggers) include chewing, talking, or swallowing. Due to its proximity to the vagus nerve (CN X), patients may develop cardioinhibitory reflexes (hypotension, bradycardia, syncope), which are not seen in patients with trigeminal neuralgia."
+    },
+
+    {
+        "id": 20,
+        "topic": "Neuroanatomy",
+        "stem": "The internal capsule receives blood supply from all the following except:",
+        "choices": {
+            "A": "Internal carotid artery",
+            "B": "Anterior cerebral artery",
+            "C": "Middle cerebral artery",
+            "D": "Posterior cerebral artery"
+        },
+        "answer": "D",
+        "explanation": "The internal capsule receives its blood supply from the anterior choroidal artery (direct branch of the ICA), lenticulostriate branches of the MCA, and medial striate artery (branch of the ACA). The PCA is not involved."
+    }
+
+]
